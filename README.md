@@ -23,6 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 
 </p>
 <p>
-  <mp4 src = "https://github.com/AnjaliPurohit2811/core_flutter_exam/assets/143180602/774f419e-f736-4851-b576-05bbc14a59ca" height=500 , width=500></mp4>
+  <video src = "https://github.com/AnjaliPurohit2811/core_flutter_exam/assets/143180602/774f419e-f736-4851-b576-05bbc14a59ca" height=500 , width=500>
 </p>
 
